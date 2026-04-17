@@ -1,9 +1,5 @@
 ## 🔗 Conecte-se comigo
 
-<p align="center">
-  <a href="#sobre-mim">
-    <img src="https://img.shields.io/badge/Sobre%20Mim-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="SEU_WHATSAPP">
     <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
