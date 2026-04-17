@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/banner.png" width="100%" alt="Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Morkis-s&color=blueviolet&style=for-the-badge&label=VISITANTES"/>
+</p>
+
 ## 🔗 Conecte-se comigo
 
 <p align="center">
@@ -40,45 +44,49 @@ Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado
 
 ## 🛠️ Skills & Tecnologias
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
+<p align="center">
+  <strong>💻 Back-End</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-**💻 Back-End**
+<p align="center">
+  <strong>📊 Dados & Análise</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <strong>🔧 Ferramentas</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
-  </td>
-  <td align="center" valign="top" width="33%">
+## 🏆 Troféus
 
-**📊 Dados & Análise**
-
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white)
-
-  </td>
-  <td align="center" valign="top" width="33%">
-
-**🔧 Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Morkis-s&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
 ## 📊 Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkis-s&layout=compact&theme=radical&locale=pt-br&cache_seconds=1&hide=html,css" />
+</p>
+
+## 🔥 Sequência de Commits
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Morkis-s&theme=radical&locale=pt_BR"/>
 </p>
 
 ## 📈 Estatísticas do GitHub
