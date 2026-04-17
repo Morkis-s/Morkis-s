@@ -20,12 +20,12 @@
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="150" align="center" valign="middle">
+<table border="0" cellspacing="0" cellpadding="10" style="border:none;">
+  <tr style="border:none;">
+    <td width="150" align="center" valign="middle" style="border:none;">
       <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="140px" alt="Gato pixel art"/>
     </td>
-    <td align="left" valign="middle" style="padding: 0 20px;">
+    <td align="left" valign="middle" style="border:none;">
 
 Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
 
@@ -34,7 +34,7 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 - 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
 
   </td>
-    <td width="150" align="center" valign="middle">
+    <td width="150" align="center" valign="middle" style="border:none;">
       <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="140px" alt="Astronauta"/>
     </td>
   </tr>
