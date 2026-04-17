@@ -1,10 +1,5 @@
-## 🔗 Conecte-se comigo
-
-<p align="center">
-  <a name="about"></a>
-
 <details>
-  <summary>👨‍💻 Sobre mim (clique para expandir)</summary>
+  <summary>👨‍💻 Sobre mim </summary>
 
   <br>
 
@@ -15,14 +10,8 @@
   - 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar  
 
 </details>
-  </a>
-  <a href="SEU_WHATSAPP">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
+
 
 ## 📊 Linguagens mais usadas
 
@@ -38,4 +27,15 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Morkis-s&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true"
   />
+</p>
+
+## 🔗 Conecte-se comigo
+
+<p align="center">
+  <a href="SEU_WHATSAPP">
+    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
