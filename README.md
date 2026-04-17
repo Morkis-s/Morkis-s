@@ -1,5 +1,5 @@
 ## 🔗 Conecte-se comigo
- <p center>
+ <p align="center">
   <a href="SEU_WHATSAPP">
     <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
