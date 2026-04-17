@@ -1,8 +1,8 @@
 ## 🔗 Conecte-se comigo
  <p align="center">
-  <a href="SEU_WHATSAPP">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+  <a href="https://wa.me/5585997373684?text=Oi%20Yago,%20vim%20pelo%20seu%20GitHub!">
+  <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
   <a href="SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
