@@ -20,11 +20,12 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="130px" alt="Astronauta"/>
-
-<img align="left" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="120px" alt="Gato pixel art"/>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="140px" alt="Gato pixel art"/>
+    </td>
+    <td align="left" valign="middle" style="padding: 0 20px;">
 
 Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
 
@@ -32,7 +33,12 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 - 🧠 Foco na performance, funcionalidade e proteção
 - 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
 
-<br clear="both"/>
+  </td>
+    <td width="150" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="140px" alt="Astronauta"/>
+    </td>
+  </tr>
+</table>
 
 </details>
 
