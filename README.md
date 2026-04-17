@@ -1,7 +1,7 @@
 ## 🔗 Conecte-se comigo
 
 <p align="center">
-  <a href="#about">
+  <a href="#sobre-mim">
     <img src="https://img.shields.io/badge/Sobre%20Mim-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="SEU_WHATSAPP">
@@ -14,7 +14,7 @@
 
 ---
 
-<a name="about"></a>
+<a name="sobre-mim"></a>
 
 <details>
   <summary>👨‍💻 Sobre mim (clique para abrir)</summary>
