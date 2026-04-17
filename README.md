@@ -17,7 +17,7 @@
 
   <br>
 
-  Hello, I'm **Yago** — Desenvolvedor e analista de dados focado em programação.
+  Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
 
   - 🚀 Desenvolvedor Back-End
   - 🧠 Foco na performance, funcionalidade e proteção.  
