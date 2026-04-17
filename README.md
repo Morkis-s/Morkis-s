@@ -20,24 +20,30 @@
 
 <br>
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
+<a name="sobre-mim"></a>
 
-Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
+<details>
+<summary>👨‍💻 Sobre mim (clique para abrir)</summary>
 
-- 🚀 Desenvolvedor Back-End
-- 🧠 Foco na performance, funcionalidade e proteção
-- 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
+<br>
 
-  </td>
-  <td valign="top" align="center" width="30%">
-    <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="150px" alt="Gato pixel art"/>
-    <br><br>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Astronauta"/>
-  </td>
-  </tr>
-</table>
+<p>
+Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado em programação.
+</p>
+
+<ul>
+  <li>🚀 Desenvolvedor Back-End</li>
+  <li>🧠 Foco na performance, funcionalidade e proteção</li>
+  <li>🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar</li>
+</ul>
+
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120px" alt="Astronauta flutuando"/>
+
+<img align="left" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="130px" alt="Gato pixel art"/>
+
+<br clear="both"/>
+
+</details>
 
 </details>
 
