@@ -4,9 +4,6 @@
   <a href="SEU_LINK_ABOUT">
     <img src="https://img.shields.io/badge/About%20Me-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="SEU_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
   <a href="SEU_WHATSAPP">
     <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
