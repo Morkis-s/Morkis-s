@@ -1,5 +1,23 @@
+## 🔗 Conecte-se comigo
+
+<p align="center">
+  <a href="#about">
+    <img src="https://img.shields.io/badge/Sobre%20Mim-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="SEU_WHATSAPP">
+    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<a name="about"></a>
+
 <details>
-  <summary>👨‍💻 Sobre mim </summary>
+  <summary>👨‍💻 Sobre mim (clique para abrir)</summary>
 
   <br>
 
@@ -11,15 +29,17 @@
 
 </details>
 
-
+---
 
 ## 📊 Linguagens mais usadas
 
 <p align="center">
   <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkis-s&layout=compact&theme=radical&locale=pt-br&cache_seconds=1&hide=html,css"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkis-s&layout=compact&theme=radical&locale=pt-br&cache_seconds=1&hide=html,css"
   />
 </p>
+
+---
 
 ## 📈 Estatísticas do GitHub
 
@@ -27,15 +47,4 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Morkis-s&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true"
   />
-</p>
-
-## 🔗 Conecte-se comigo
-
-<p align="center">
-  <a href="SEU_WHATSAPP">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
