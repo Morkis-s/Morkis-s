@@ -13,7 +13,7 @@
 </p>
 
 <details>
-  <summary>👨‍💻 About me</summary>
+  <summary>👨‍💻 Sobre mim</summary>
 
   <br>
 
@@ -25,7 +25,7 @@
 
 </details>
 
-## 📊 Most Used Languages
+## 📊 Linguagens mais usadas
 
 <p align="center">
   <img 
