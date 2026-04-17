@@ -30,7 +30,7 @@ Opa, Eu sou o **Yago** â€” Desenvolvedor e analista de dados focado em programaÃ
 
     </td>
     <td valign="top" align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.jpg" width="180px" alt="Gato pixel art"/>
+      <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="180px" alt="Gato pixel art"/>
     </td>
   </tr>
 </table>
