@@ -9,8 +9,6 @@
   </a>
 </p>
 
----
-
 <a name="sobre-mim"></a>
 
 <details>
@@ -28,16 +26,14 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 - 🧠 Foco na performance, funcionalidade e proteção
 - 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
 
-    </td>
-    <td valign="top" align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="180px" alt="Gato pixel art"/>
-    </td>
+  </td>
+  <td valign="top" align="center" width="40%">
+    <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="180px" alt="Gato pixel art"/>
+  </td>
   </tr>
 </table>
 
 </details>
-
----
 
 ## 🛠️ Skills & Tecnologias
 
@@ -53,7 +49,7 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 
   </td>
-    <td align="center" valign="top" width="33%">
+  <td align="center" valign="top" width="33%">
 
 **📊 Dados & Análise**
 
@@ -63,7 +59,7 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white)
 
   </td>
-    <td align="center" valign="top" width="33%">
+  <td align="center" valign="top" width="33%">
 
 **🔧 Ferramentas**
 
@@ -76,15 +72,11 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
   </tr>
 </table>
 
----
-
 ## 📊 Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkis-s&layout=compact&theme=radical&locale=pt-br&cache_seconds=1&hide=html,css" />
 </p>
-
----
 
 ## 📈 Estatísticas do GitHub
 
