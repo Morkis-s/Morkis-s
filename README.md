@@ -20,28 +20,23 @@
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="10" style="border:none;">
-  <tr style="border:none;">
-    <td width="150" align="center" valign="middle" style="border:none;">
-      <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="140px" alt="Gato pixel art"/>
-    </td>
-    <td align="left" valign="middle" style="border:none;">
+<img align="left" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="140px" alt="Gato pixel art"/>
 
-Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
+<img align="right" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="140px" alt="Astronauta"/>
 
-- 🚀 Desenvolvedor Back-End
-- 🧠 Foco na performance, funcionalidade e proteção
-- 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
+<p align="center">
+Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado em programação.
+<br><br>
+🚀 Desenvolvedor Back-End
+<br>
+🧠 Foco na performance, funcionalidade e proteção
+<br>
+🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
+</p>
 
-  </td>
-    <td width="150" align="center" valign="middle" style="border:none;">
-      <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="140px" alt="Astronauta"/>
-    </td>
-  </tr>
-</table>
+<br clear="both"/>
 
 </details>
-
 
 ## 🛠️ Skills & Tecnologias
 
