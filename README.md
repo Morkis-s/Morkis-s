@@ -49,14 +49,12 @@ Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado
   <br><br>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <p align="center">
   <strong>📊 Dados & Análise</strong>
   <br><br>
-  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white"/>
