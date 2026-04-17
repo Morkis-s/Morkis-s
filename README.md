@@ -72,7 +72,7 @@ Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado
 ## 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Morkis-s&theme=radical&no-frame=true&row=1&column=7&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Morkis-s&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ## 📊 Linguagens mais usadas
