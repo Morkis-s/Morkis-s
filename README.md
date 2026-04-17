@@ -1,8 +1,20 @@
 ## 🔗 Conecte-se comigo
 
 <p align="center">
-  <a href="SEU_LINK_ABOUT">
-    <img src="https://img.shields.io/badge/About%20Me-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a name="about"></a>
+
+<details>
+  <summary>👨‍💻 Sobre mim (clique para expandir)</summary>
+
+  <br>
+
+  Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
+
+  - 🚀 Desenvolvedor Back-End  
+  - 🧠 Foco na performance, funcionalidade e proteção  
+  - 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar  
+
+</details>
   </a>
   <a href="SEU_WHATSAPP">
     <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -11,19 +23,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
-
-  <br>
-
-  Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
-
-  - 🚀 Desenvolvedor Back-End
-  - 🧠 Foco na performance, funcionalidade e proteção.  
-  - 🤝 Sempre colaborando e me esforçando ao máximo, pelo o objetivo que quero.
-
-</details>
 
 ## 📊 Linguagens mais usadas
 
