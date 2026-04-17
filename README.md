@@ -29,12 +29,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkis-s&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkis-s&layout=compact&theme=radical&locale=pt-br"
   />
 </p>
 
+## 📈 Estatísticas do GitHub
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Morkis-s&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Morkis-s&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true"
   />
 </p>
