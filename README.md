@@ -20,13 +20,6 @@
 
 <br>
 
-<a name="sobre-mim"></a>
-
-<details>
-<summary>👨‍💻 Sobre mim (clique para abrir)</summary>
-
-<br>
-
 <p>
 Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado em programação.
 </p>
@@ -45,7 +38,6 @@ Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado
 
 </details>
 
-</details>
 
 ## 🛠️ Skills & Tecnologias
 
