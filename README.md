@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/banner.png" width="100%" alt="Banner"/>
+</p>
+
 ## 🔗 Conecte-se comigo
 
 <p align="center">
@@ -18,7 +22,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="70%">
 
 Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
 
@@ -27,8 +31,10 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 - 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
 
   </td>
-  <td valign="top" align="center" width="40%">
-    <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="180px" alt="Gato pixel art"/>
+  <td valign="top" align="center" width="30%">
+    <img src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="150px" alt="Gato pixel art"/>
+    <br><br>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Astronauta"/>
   </td>
   </tr>
 </table>
@@ -45,6 +51,7 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 
   </td>
@@ -52,6 +59,7 @@ Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programa�
 
 **📊 Dados & Análise**
 
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white)
