@@ -20,19 +20,17 @@
 
 <br>
 
-<p>
-Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado em programação.
-</p>
+<img align="right" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="130px" alt="Astronauta"/>
 
-<ul>
-  <li>🚀 Desenvolvedor Back-End</li>
-  <li>🧠 Foco na performance, funcionalidade e proteção</li>
-  <li>🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar</li>
-</ul>
+<img align="left" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="120px" alt="Gato pixel art"/>
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120px" alt="Astronauta flutuando"/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<img align="left" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="130px" alt="Gato pixel art"/>
+Opa, Eu sou o **Yago** — Desenvolvedor e analista de dados focado em programação.
+
+- 🚀 Desenvolvedor Back-End
+- 🧠 Foco na performance, funcionalidade e proteção
+- 🤝 Sempre colaborando e me esforçando ao máximo pelo objetivo que quero alcançar
 
 <br clear="both"/>
 
