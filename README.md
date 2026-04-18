@@ -24,31 +24,52 @@
 
 <br>
 
-<img align="left" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="140px" alt="Gato pixel art"/>
-
-<img align="right" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="140px" alt="Astronauta"/>
+<img align="left" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/gato.png" width="210px" alt="Gato pixel art"/>
+<img align="right" src="https://raw.githubusercontent.com/Morkis-s/Morkis-s/main/astronauta.gif" width="210px" alt="Astronauta"/>
 
 <p align="center">
-Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado em programação.
+
+Opa, Eu sou o <strong>Yago</strong> — Desenvolvedor e analista de dados focado em programação.<br>
 Sou dedicado e comprometido — quando recebo um desafio, não paro até entregar o melhor resultado possível.<br>
 Estou sempre em busca de evolução, seja em habilidades técnicas, raciocínio ou criatividade.
+
 <br><br>
-Já liderei projetos, desenvolvi desde jogos até sites completos, e em cada entrega busco deixar minha marca<br>
-com soluções criativas e um diferencial real. Acredito que aprender nunca tem fim, e é exatamente isso que me move.
+
+Já liderei projetos, desenvolvi desde jogos até sites completos, e em cada entrega<br>
+busco deixar minha marca com soluções criativas e um diferencial real.<br>
+Acredito que aprender nunca tem fim, e é exatamente isso que me move.
+
 <br><br>
-  projetos de cada ano em meus repositórios:
-<br><br> 
-  1° ano (aprendendo programação ainda) repositorio: SakuraCard   
+
+📁 <strong>Projetos por ano:</strong>
+
 <br><br>
-  2° ano (aprendendo algo mais avançado) repositorios: Ranking-de-clientes & Space-Invaders
+
+🟣 <strong>1º ano</strong> — Aprendendo programação
+<br>
+<a href="https://github.com/Morkis-s/SakuraCard">SakuraCard</a>
+
 <br><br>
-  3° ano (Bem mais trabalhado em produção ainda) repositorios: SECTEC & Trabalho.C
+
+🟣 <strong>2º ano</strong> — Aprendendo algo mais avançado
+<br>
+<a href="https://github.com/Morkis-s/Ranking-de-clientes">Ranking-de-clientes</a> &nbsp;|&nbsp;
+<a href="https://github.com/Morkis-s/Space-Invaders">Space-Invaders</a>
+
 <br><br>
+
+🟣 <strong>3º ano</strong> — Bem mais trabalhado, em produção
+<br>
+<a href="https://github.com/Morkis-s/SECTEC">SECTEC</a> &nbsp;|&nbsp;
+<a href="https://github.com/Morkis-s/Trabalho.C">Trabalho.C</a>
+
+<br><br>
+
 Se você chegou até aqui, saiba que pode contar com alguém que se importa com o que faz. 🚀
+
 </p>
 
 <br clear="both"/>
-
 </details>
 
 ## 🛠️ Skills & Tecnologias
