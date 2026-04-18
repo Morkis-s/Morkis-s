@@ -36,6 +36,14 @@ Estou sempre em busca de evolução, seja em habilidades técnicas, raciocínio 
 Já liderei projetos, desenvolvi desde jogos até sites completos, e em cada entrega busco deixar minha marca<br>
 com soluções criativas e um diferencial real. Acredito que aprender nunca tem fim, e é exatamente isso que me move.
 <br><br>
+  projetos de cada ano em meus repositórios:
+<br><br> 
+  1° ano (aprendendo programação ainda) repositorio: SakuraCard   
+<br><br>
+  2° ano (aprendendo algo mais avançado) repositorios: Ranking-de-clientes & Space-Invaders
+<br><br>
+  3° ano (Bem mais trabalhado em produção ainda) repositorios: SECTEC & Trabalho.C
+<br><br>
 Se você chegou até aqui, saiba que pode contar com alguém que se importa com o que faz. 🚀
 </p>
 
