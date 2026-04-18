@@ -12,7 +12,7 @@
   <a href="https://wa.me/5585997374684?text=Oi%20Yago,%20vim%20pelo%20seu%20GitHub!">
     <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/yago-nascimento-abreu-aaa361404">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
