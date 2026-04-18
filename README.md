@@ -47,7 +47,7 @@ Acredito que aprender nunca tem fim, e é exatamente isso que me move.
 
 🟣 <strong>1º ano</strong> — Aprendendo programação
 <br>
-<a href="https://github.com/Morkis-s/SakuraCard">SakuraCard</a>
+<a href="https://github.com/AngelEnd-dev/SakuraCard">SakuraCard</a>
 
 <br><br>
 
@@ -60,8 +60,8 @@ Acredito que aprender nunca tem fim, e é exatamente isso que me move.
 
 🟣 <strong>3º ano</strong> — Bem mais trabalhado, em produção
 <br>
-<a href="https://github.com/Morkis-s/SECTEC">SECTEC</a> &nbsp;|&nbsp;
-<a href="https://github.com/Morkis-s/Trabalho.C">Trabalho.C</a>
+<a href="https://github.com/Morkis-s/EM BREVE">SECTEC</a> &nbsp;|&nbsp;
+<a href="https://github.com/Artur212007/Trabalho.C">Trabalho.C</a>
 
 <br><br>
 
