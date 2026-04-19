@@ -60,7 +60,7 @@ Acredito que aprender nunca tem fim, e é exatamente isso que me move.
 
 🟣 <strong>3º ano</strong> — Bem mais trabalhado, em produção
 <br>
-<a href="https://github.com/Morkis-s/EM BREVE">SECTEC</a> &nbsp;|&nbsp;
+<a href="https://github.com/Alewesley-Sousa/SECTEC">SECTEC</a> &nbsp;|&nbsp;
 <a href="https://github.com/Artur212007/Trabalho.C">Trabalho.C</a>
 
 <br><br>
